@@ -139,4 +139,3 @@ cython_debug/
 pyvenv.cfg
 
 /bin
-/bin*
